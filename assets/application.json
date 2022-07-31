@@ -35,7 +35,7 @@
     "products/variations/price": []
   },
   "admin_settings": {
-    "token": {
+    "integration_token": {
       "schema": {
         "type": "string",
         "title": "Martan Integration Token",
@@ -43,7 +43,7 @@
       },
       "hide": true
     },
-    "store_id": {
+    "integration_store_id": {
       "schema": {
         "type": "number",
         "title": "Martan Integration Store-ID",
